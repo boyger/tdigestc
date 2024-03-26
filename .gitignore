@@ -2,3 +2,4 @@ bazel*
 .pyc
 .pyo
 js/node_modules/*
+build/
